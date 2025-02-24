@@ -8,7 +8,7 @@ documentation: https://developer.mixpanel.com/docs/flutter
 
 environment:
   sdk: ">=3.7.0 <4.0.0"
-  flutter: ">=3.29.0 <3.39.0"
+  flutter: ">=3.29.0"
 
 dependencies:
   flutter:
